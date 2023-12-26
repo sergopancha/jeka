@@ -27,12 +27,12 @@ border : 1px solid black;
 margin-left: 15%;
 float: left;
 width: 40%;
-border : 1px solid blue;
+border : 1px solid green;
 
 }
 .detstvo-image {
 width: 30%; 
-background: red;   
+background: yellow;
 }
 .popov-image {
 width: 100%;    
