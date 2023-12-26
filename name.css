@@ -1,0 +1,55 @@
+.block1, .detstvo-image  {
+    background:#FFFFE0;
+    padding: 10px;
+    width: 55%;
+    float: left;
+    margin-left: 1%;
+}
+
+.block2,.detstvo-text ,.seny-text , .ucheba-text{
+    width:25%;
+    float: right;
+}
+
+
+.clear {
+    clear: both;
+}
+.text {
+background:#FFFFE0;
+float: right;
+width: 55%;
+padding: 10px;
+margin-left: 15%;
+border : 1px solid black; 
+}
+.photo {
+margin-left: 15%;
+float: left;
+width: 40%;
+border : 1px solid blue;
+
+}
+.detstvo-image {
+width: 30%; 
+background: red;   
+}
+.popov-image {
+width: 100%;    
+}
+.detstvo-text {
+width: 50%;
+}
+.seny-image {
+width: 100%;
+}
+.seny-text{
+width: 50%;
+}
+.ucheba-image{
+width: 100%;
+}
+.ucheba-text{
+width:50% ;
+
+}
