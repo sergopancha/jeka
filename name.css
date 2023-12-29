@@ -6,7 +6,7 @@
     margin-left: 1%;
 }
 
-.block2,.detstvo-text ,.seny-text , .ucheba-text{
+.block2,.detstvo-text ,.seny-text , .ucheba-text , .right50{
     width:25%;
     float: right;
 }
@@ -52,4 +52,10 @@ width: 100%;
 .ucheba-text{
 width:50% ;
 
+}
+.right50{
+    width: 50%;
+}
+.left50{
+    width: 50%;
 }
